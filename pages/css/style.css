@@ -25,6 +25,10 @@ body {
     display: inline;
 }
 
+.br_phone {
+    display: none;
+}
+
 .main_text {
     -webkit-text-stroke: 0.5px #1a1a1a;
     margin-left: 60px;
@@ -166,7 +170,7 @@ body {
     }
 
     #footer {
-        font-size: 15px;
+        font-size: 30px;
     }
 
     .vk {
@@ -174,6 +178,14 @@ body {
     }
 
     .pc_br {
+        display: none;
+    }
+
+    .br_phone {
+        display: inline;
+    }
+
+    .ne {
         display: none;
     }
 }
