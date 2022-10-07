@@ -5,6 +5,10 @@ body {
     background-color: #1a1a1a;
 }
 
+p {
+    font-family: Arial;
+}
+
 .zag {
     -webkit-text-stroke:1.1px #1a1a1a;
     font-size: 40px;
