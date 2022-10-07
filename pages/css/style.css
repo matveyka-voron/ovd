@@ -133,11 +133,12 @@ body {
     #navbarPhone a {
         background-color: #333;
         color: #fff;
-        padding: 5px;
+        padding: 25px 5px;
         text-decoration: none;
         font-weight: bold;
         border-left: 5px solid #33ADFF;
         display: block;
+        font-size: 35px;
     }
 
     #main_img {
