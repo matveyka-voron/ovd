@@ -100,14 +100,6 @@ body {
     width: 15%;
 }
 
-#vk_pc {
-    display: inline;
-}
-
-#vk_ph {
-    display: block;
-}
-
 @media screen and (max-width: 1000px) {
     #navbarPhone {
         display: inline;
@@ -117,14 +109,6 @@ body {
         width: 100%;
         margin-left: 15px;
         margin-right: 15px;
-    }
-
-    #vk_pc {
-        display: none;
-    }
-
-    #vk_ph {
-        display: inline;
     }
 
     #navbarPhone li {
@@ -152,6 +136,8 @@ body {
 
     .zag {
         font-size: 50px;
+        margin-left: 5px;
+        margin-right: 5px;
     }
     
     .main_text {
