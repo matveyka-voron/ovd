@@ -156,6 +156,10 @@ p {
         font-size: 35px;
     }
 
+    #navbarPhone a:focus {
+        background-color: #101010;
+    }
+
     #main_img {
         width: 50%;
     }
